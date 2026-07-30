@@ -2,7 +2,7 @@
 Dataset: retail_order.csv
 
 <p align="center">
-  <img src="imgs/(Heatmap) Retenrion rates.JPG" width="1000" />
+  <img src="imgs/(Heatmap) Retention rates.JPG" width="1000" />
 </p>
 
 <p align="center">
